@@ -23,5 +23,6 @@
 * [Simulation]
 * [Design]
 
-## Bit Manipulation |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+## Bit Manipulation 
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
