@@ -26,4 +26,8 @@
 ## Bit Manipulation 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-##
+<<<<<<< HEAD
+=======
+
+## Array
+>>>>>>> featurel
