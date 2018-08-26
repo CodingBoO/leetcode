@@ -56,7 +56,7 @@
 ## Tree
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-617 |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [C++](./617.merge-two-binary-trees.cpp) [Python](./Python/merge-two-binary-trees.py)| _O(n)_ | _O(h)_ | Easy | | |
+617 |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [C++](./cpp/617.merge-two-binary-trees.cpp) [Python](./Python/merge-two-binary-trees.py)| _O(n)_ | _O(h)_ | Easy | | |
 
 ## Hash Table
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
