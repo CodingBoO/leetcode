@@ -1,27 +1,29 @@
 ## Algorithms
 * [Bit Manipulation](https://github.com/CodingBoO/LeetCode#bit-manipulation)
-* [Array]
-* [String]
-* [Linked List]
-* [Stack]
-* [Queue]
-* [Heap]
-* [Tree]
-* [Hash Table]
-* [Math]
-* [Two Pointers]
-* [Sort]
-* [Recursion]
-* [Binary Search]
-* [Binary Search Tree]
-* [Binary-First Search]
-* [Backtracking]
-* [Dynamic Programming]
-* [Greedy]
-* [Graph]
-* [Geometry]
-* [Simulation]
-* [Design]
+* [Array](https://github.com/CodingBoO/LeetCode#array)
+* [String](https://github.com/CodingBoO/LeetCode#string)
+* [Linked List](https://github.com/CodingBoO/LeetCode#linked-list)
+* [Stack](https://github.com/CodingBoO/LeetCode#stack)
+* [Queue](https://github.com/CodingBoO/LeetCode#queue)
+* [Heap](https://github.com/CodingBoO/LeetCode#heap)
+* [Tree](https://github.com/CodingBoO/LeetCode#tree)
+* [Hash Table](https://github.com/CodingBoO/LeetCode#hash-table)
+* [Math](https://github.com/CodingBoO/LeetCode#math)
+* [Two Pointers](https://github.com/CodingBoO/LeetCode#two-pointers)
+* [Sort](https://github.com/CodingBoO/LeetCode#sort)
+* [Recursion](https://github.com/CodingBoO/LeetCode#recursion)
+* [Binary Search](https://github.com/CodingBoO/LeetCode#binary-search)
+* [Binary Search Tree](https://github.com/CodingBoO/LeetCode#binary-search-tree)
+* [Breadth-First Search](https://github.com/CodingBoO/LeetCode#breadth-first-search)
+* [Depth-First Search](https://github.com/CodingBoO/LeetCode#depth-first-search)
+* [Backtracking](https://github.com/CodingBoO/LeetCode#backtracking)
+* [Dynamic Programming](https://github.com/CodingBoO/LeetCode#dynamic-programming)
+* [Greedy](https://github.com/CodingBoO/LeetCode#greedy)
+* [Graph](https://github.com/CodingBoO/LeetCode#graph)
+* [Geometry](https://github.com/CodingBoO/LeetCode#geometry)
+* [Simulation](https://github.com/CodingBoO/LeetCode#simulation)
+* [Design](https://github.com/CodingBoO/LeetCode#design)
+
 
 ## Bit Manipulation 
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
