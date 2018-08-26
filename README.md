@@ -32,7 +32,7 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)| [C++](./cpp/412. Fizz Buzz.cpp) [Python](./py/412. Fizz Buzz.py)|
+412 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)| [C++](./cpp/412. Fizz Buzz.cpp) [Python](./py/412. Fizz Buzz.py)|_O(n)_ | _O(h)_ | Easy | | |
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
