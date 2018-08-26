@@ -1,5 +1,5 @@
 ## Algorithms
-* [Bit Manipulation]
+* [Bit Manipulation](https://github.com/kamyu104/LeetCode#bit-manipulation)
 * [Array]
 * [String]
 * [Linked List]
